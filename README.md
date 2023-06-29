@@ -4,7 +4,7 @@ Repositório representa o estudo feito acerca do Python, análise de dados e bib
 
 ## Destaques
 - Upload de arquivos de maneiras diferentes
-- Transformações de tipos de dados
+- Transformações de tipos da base de dados
 - Transformações em valores de dados
 - Criação de colunas
 - Modelagem de dados auxentes e equivocados
